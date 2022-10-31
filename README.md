@@ -1,2 +1,2 @@
 # PSI
-This an east PIS System use PHP and MySQL
+This an easy PIS System use PHP and MySQL
